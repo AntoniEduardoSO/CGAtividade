@@ -1,0 +1,14 @@
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\bin\Debug\net8.0\COMPUTACAO_GRAFICA.exe
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\bin\Debug\net8.0\COMPUTACAO_GRAFICA.deps.json
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\bin\Debug\net8.0\COMPUTACAO_GRAFICA.runtimeconfig.json
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\bin\Debug\net8.0\COMPUTACAO_GRAFICA.dll
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\bin\Debug\net8.0\COMPUTACAO_GRAFICA.pdb
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\COMPUTACAO_GRAFICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\COMPUTACAO_GRAFICA.AssemblyInfoInputs.cache
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\COMPUTACAO_GRAFICA.AssemblyInfo.cs
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\COMPUTACAO_GRAFICA.csproj.CoreCompileInputs.cache
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\COMPUTACAO_GRAFICA.dll
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\refint\COMPUTACAO_GRAFICA.dll
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\COMPUTACAO_GRAFICA.pdb
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\COMPUTACAO_GRAFICA.genruntimeconfig.cache
+C:\Dev\Faculdade\COMPUTACAO_GRAFICA\obj\Debug\net8.0\ref\COMPUTACAO_GRAFICA.dll

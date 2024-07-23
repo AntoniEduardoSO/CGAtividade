@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "COMPUTACAO_GRAFICA/1.0.0": {
+        "runtime": {
+          "COMPUTACAO_GRAFICA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COMPUTACAO_GRAFICA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
